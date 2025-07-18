@@ -1,0 +1,1 @@
+import{r as t}from"./vendor-D0C5V0Dn.js";import{C as r}from"./index-DaifKTuR.js";const e=()=>{const o=t.useContext(r);if(o===void 0)throw new Error("useConfirmation must be used within an ConfirmationProvider");return o};export{e as u};
